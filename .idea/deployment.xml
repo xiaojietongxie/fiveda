@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="192.168.79.129">
+    <serverData>
+      <paths name="192.168.79.129">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mysoft/apache-tomcat-9.0.2/webapps" local="$PROJECT_DIR$/son2/target" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
